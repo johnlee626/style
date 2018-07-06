@@ -1,0 +1,1 @@
+var val = document.getElementById("sortby").value;
